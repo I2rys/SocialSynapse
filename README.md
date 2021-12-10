@@ -4,7 +4,7 @@
   
 <p align="center">
   <a href="https://discord.gg/yWqQ6Z7abj">
-    <img src="https://media.discordapp.net/attachments/893433615373987840/913291198985277440/Untitled.png" width="240" height="240" />
+    <img src="https://media.discordapp.net/attachments/918021203082481674/918825098675388476/Synapse_Logo.png" width="240" height="240" />
   </a>
   
   [![developer](https://img.shields.io/badge/Developer-Social404_I2rys-520702.svg?style=flat)](https://github.com/Social404)
